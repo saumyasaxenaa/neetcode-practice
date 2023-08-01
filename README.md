@@ -1,3 +1,3 @@
 # neetcode-practice
 
-Practicing Neetcode's 150 Questions
+Practicing Neetcode's 150 questions
